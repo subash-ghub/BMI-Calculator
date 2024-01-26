@@ -1,6 +1,6 @@
 # BMI Calculator using Flask
 
-A simple calculator used to calculate the Body Mass Index (BMI).
+BMI(Body Mass Index) is used to assess whether a person’s weight is within a healthy range for their height. A simple calculator used to calculate the BMI.
 
 ## How BMI is calculated?
 

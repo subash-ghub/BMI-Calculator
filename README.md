@@ -2,6 +2,15 @@
 
 A simple calculator used to calculate the Body Mass Index (BMI).
 
+## How BMI is calculated?
+
+Formula: weight (kg) / [height (m)]2
+
+With the metric system, the formula for BMI is weight in kilograms divided by height in meters squared. Because height is commonly measured in centimeters, divide height in centimeters by 100 to obtain height in meters.
+
+Example: Weight = 68 kg, Height = 165 cm (1.65 m)
+Calculation: 68 ÷ (1.65)2 = 24.98
+
 ## Technologies used:
 
 - HTML
